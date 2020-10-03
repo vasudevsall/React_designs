@@ -1,1 +1,1 @@
-This folder contains full-fledged React APIs and applications that can be used in a project with some slight modifications.
+This folder contains full-fledged React APIs and applications that can be used in a project with some slight modifications. You can see how different components are used in React with so ease.
